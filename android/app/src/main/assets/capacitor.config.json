@@ -1,0 +1,10 @@
+{
+  "appId": "com.angular.ionic",
+  "appName": "paribartan",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8101"
+  }
+}

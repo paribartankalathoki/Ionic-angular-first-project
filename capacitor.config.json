@@ -1,0 +1,7 @@
+{
+  "appId": "com.angular.ionic",
+  "appName": "paribartan",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
